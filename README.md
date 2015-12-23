@@ -3,8 +3,8 @@ Draw your svg path with animation
 
 #USAGE
 
-    1. Include svg-linedrawe.js to your HTML
-    2. Call scrollBar with your path element selector
+    1. Include svg-linedrawer.js to your HTML
+    2. Call svgLineDrawer with your path element selector
         eg: $('.logo').svgLineDrawer();
     3. And its ready to use
     
